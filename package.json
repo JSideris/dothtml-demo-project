@@ -17,6 +17,6 @@
     "webpack-dev-server": "^4.8.1"
   },
   "dependencies": {
-    "dothtml": "github:JSideris/DOThtml"
+    "dothtml": "^5.2.9"
   }
 }
